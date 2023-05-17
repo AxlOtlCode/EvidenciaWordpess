@@ -1,0 +1,46 @@
+body{
+    margin: 0 0;
+    padding: 0 0;
+    background-color: rgb(214, 230, 205);
+}
+
+header{
+    background-color: rgb(122, 180, 105);
+    padding: 10%;
+
+    color: rgb(139, 167, 123);
+
+    box-shadow: 0 10px 20px rgba(80, 122, 80, 0.685);
+}
+
+hr{
+    width: 70%;
+}
+
+header .izquierda{
+    margin-right: auto;
+}
+header .derecha{
+    margin-left: auto;
+}
+
+header h1{
+
+    width: 60%;
+    margin: auto auto;
+    box-shadow: 5px 5px 10px black, 3px 3px white;
+
+    font-style: italic;
+}
+
+article{
+    width: 60%;
+
+    margin: auto auto;
+
+    text-shadow: 2px 2px 2px rgb(89, 119, 89);
+}
+
+article section .captura{
+    width: 700px;
+}
